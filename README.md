@@ -1,2 +1,2 @@
-# laboratory_activities
-This repo contains all the experiments and activities of the subjects I'm currently pursuing..
+# deep_learning_techniques
+This repo contains the programs that I've practiced during my lab sessions.
